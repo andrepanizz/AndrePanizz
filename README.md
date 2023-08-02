@@ -13,7 +13,7 @@
 ![blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ![andrepanizz GitHub stats](https://github-readme-stats.vercel.app/api?username=andrepanizz&show_icons=true&theme=dracula)
-<hr>
+
 <br>
 
 <hr>
@@ -23,4 +23,4 @@
 
 ## Email Principal:
 <li> andredevops7@gmail.com </li>
-<h3> Ended Profile 😛😛😛</h3>
+
