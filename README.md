@@ -12,9 +12,9 @@
 ![blog](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrepanizza)](https://github.com/andrepanizz/github-readme-stats)
+![andrepanizz GitHub stats](https://github-readme-stats.vercel.app/api?username=andrepanizz&show_icons=true&theme=dracula)
+<hr>
+<br>
 
 
 <a href="https://github.com//convoychat">
