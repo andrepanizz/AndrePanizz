@@ -13,7 +13,6 @@
 ![blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-![andrepanizz GitHub stats](https://github-readme-stats.vercel.app/api?username=andrepanizz&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrepanizza)](https://github.com/andrepanizz/github-readme-stats)
 
