@@ -1,5 +1,5 @@
 # Ola eu sou Andre Panizza 😛
-
+<hr>
 
 ## Using Programming Languages below:
 ![Blog](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) 
