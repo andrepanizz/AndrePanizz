@@ -1,5 +1,5 @@
 ## Olá eu sou Andre Panizza 🚀🚀🚀
-<hr>
+
 <hr>
 
 ## Using Programming Languages below:
