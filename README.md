@@ -26,6 +26,11 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrepanizz&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-## Email Principal:
+## Principal Email for contact:
 <li> andredevops7@gmail.com </li>
+## or alternative e-mail:
+<li> andrepanizza13@gmail.com </li>
+<h2> start commits in: september/2023 </h2>
+<br>
+<hr>
 
