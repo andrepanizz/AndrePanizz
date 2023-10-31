@@ -28,7 +28,7 @@
 
 ## Principal Email for contact:
 <li> andredevops7@gmail.com </li>
-## or alternative e-mail:
+
 <li> andrepanizza13@gmail.com </li>
 <h2> start commits in: september/2023 </h2>
 <br>
