@@ -29,7 +29,7 @@
 <li> andredevops7@gmail.com </li>
 
 <li> andrepanizza13@gmail.com </li>
-<h2> start commits in: september/2023 </h2>
+<h2> Start commits in: september/2023 </h2>
 <br>
 <hr>
 
